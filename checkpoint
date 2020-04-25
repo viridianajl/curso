@@ -1,0 +1,2 @@
+model_checkpoint_path: "modelo_series_temporales"
+all_model_checkpoint_paths: "modelo_series_temporales"
